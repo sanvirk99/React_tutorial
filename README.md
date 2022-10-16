@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It is following the tutorial at https://reactjs.org/tutorial/tutorial.html but with Thomas Weibenfalk 
+This is following the tutorial at https://reactjs.org/tutorial/tutorial.html watching Thomas Weibenfalk 
 
 ## Available Scripts
 
