@@ -1,9 +1,12 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Play Tic Tac To here https://sanvirk99.github.io/React_tutorial/
 
 This is following the tutorial at https://reactjs.org/tutorial/tutorial.html watching Thomas Weibenfalk 
+Credit goes to Thomas Weibenfalk
 
+# Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 
 In the project directory, you can run:
